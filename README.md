@@ -1,12 +1,12 @@
-# appapi
+# flutter_getDigimonsFromApi
 
-A new Flutter project.
+[fontes github](https://github.com/logicinfocursos/flutter_getDigimonsFromApi.git)
 
-## Getting Started
+## getting started
 
-Fico feliz com o seu interesse nesse código realizado com grande carinho. Esse código é um template básico para que você possa usar como ponto de partida para os seus próximos projetos em flutter acessando uma api.
+Fico feliz com o seu interesse nesse código realizado com grande carinho. Trata-se de um template básico para que você possa usar como ponto de partida para os seus próximos projetos em flutter acessando uma api.
 
-Alguns recursos para você começar se este for seu primeiro projeto Flutter:
+## resultado final
 
 ![resultado final](appScreen.jpg)
 
